@@ -461,7 +461,14 @@ div#sea {
     right: 20px;
     top: 20px;
   }
+  div#video{
+    position: absolute;
+    right: 150px;
+    bottom: 150px;
+    
+  }
   div#beach{
+    background-size: 1400px;
     margin-right: 7rem;
     margin-bottom: 2rem;
   }
